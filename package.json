@@ -1,0 +1,31 @@
+{
+  "name": "lab_1",
+  "version": "1.0.0",
+  "description": "Lab1",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kos-nastiia/web_2.git"
+  },
+  "author": "Anastasiia Kostyrka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kos-nastiia/web_2/issues"
+  },
+  "homepage": "https://github.com/kos-nastiia/web_2#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.54.0",
+    "eslint": "^8.35.0",
+    "eslint-config-standard-with-typescript": "^34.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.6.1",
+    "eslint-plugin-promise": "^6.1.1",
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
